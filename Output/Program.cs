@@ -16,6 +16,7 @@ namespace Output
 
 
          Console.WriteLine("Git pull test.");
+         Console.WriteLine("Git pull home test");
 
       }
    }
